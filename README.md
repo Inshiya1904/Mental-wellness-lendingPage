@@ -3,7 +3,7 @@
 A modern, responsive and animated landing page for a **Mental Wellness Platform**, built using **React.js**, **Tailwind CSS**, and **Framer Motion**. This project is designed to provide users a smooth, calming and engaging experience to explore therapy and self-help services.
 
 ### 🔗 Live Demo
-👉 [Visit Live Site](https://mental0-wellness-lending-page.vercel.app)
+👉 [Visit Live Site](mental0-wellness-lending-page.vercel.app)
 
 ---
 
@@ -21,7 +21,7 @@ A modern, responsive and animated landing page for a **Mental Wellness Platform*
 
 ## 🖼️ UI Preview
 
-![Project Screenshot](./public/screenshot.png)
+![Project Screenshot](./public/screenshot.html)
 
 ---
 
