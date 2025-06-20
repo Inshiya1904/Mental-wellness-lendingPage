@@ -44,7 +44,7 @@ Vite – Fast development server
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Inshiya1904/Mental0-wellness-lendingPage.git
+git clone https://github.com/Inshiya1904/Mental-wellness-lendingPage.git
 cd Mental-wellness-lendingPage
 ```
 
