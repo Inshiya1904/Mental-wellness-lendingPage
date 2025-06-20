@@ -32,7 +32,9 @@ React.js – Component-based UI library
 Tailwind CSS – Utility-first CSS framework
 
 Framer Motion – React animations
+
 Firebase – For contact form submission
+
 Vite – Fast development server
 
 ---
