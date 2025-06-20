@@ -40,8 +40,8 @@ A modern, responsive and animated landing page for a **Mental Wellness Platform*
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Inshiya1904/Task-Management-Application.git
-cd Task-Management-Application
+git clone https://github.com/Inshiya1904/Mental0-wellness-lendingPage.git
+cd Mental-wellness-lendingPage
 ```
 
 ### Install dependencies
