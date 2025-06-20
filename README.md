@@ -27,11 +27,11 @@ A modern, responsive and animated landing page for a **Mental Wellness Platform*
 
 ## 🛠️ Technologies Used
 
-- ReactJS
-- Tailwind CSS
-- HTML
-- JavaScript (ES6+)
-- Firebase
+React.js – Component-based UI library
+Tailwind CSS – Utility-first CSS framework
+Framer Motion – React animations
+Firebase – For contact form submission
+Vite – Fast development server
 
 ---
 
