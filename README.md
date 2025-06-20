@@ -21,7 +21,7 @@ A modern, responsive and animated landing page for a **Mental Wellness Platform*
 
 ## 🖼️ UI Preview
 
-![Project Screenshot](./public/Screenshot.html)
+![Project Screenshot](./public/Screenshot.png)
 
 ---
 
