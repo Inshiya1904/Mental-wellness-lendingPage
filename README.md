@@ -28,10 +28,10 @@ A modern, responsive and animated landing page for a **Mental Wellness Platform*
 ## 🛠️ Technologies Used
 
 - ReactJS
-- CSS (custom styling)
+- Tailwind CSS
 - HTML
 - JavaScript (ES6+)
-- localStorage 
+- Firebase
 
 ---
 
