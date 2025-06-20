@@ -3,14 +3,17 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBHtK1t_7q-i5JQA3hWsO75GGphoZwReDM",
-  authDomain: "metal-wellness.firebaseapp.com",
-  projectId: "metal-wellness",
-  storageBucket: "metal-wellness.firebasestorage.app",
-  messagingSenderId: "1081134536666",
-  appId: "1:1081134536666:web:2495bb63763dfb779252e3",
-  measurementId: "G-BRWKC4VYRS"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
 };
+
+export default firebaseConfig;
+
 
 
 const app = initializeApp(firebaseConfig);
