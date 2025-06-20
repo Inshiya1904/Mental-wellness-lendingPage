@@ -1,12 +1,57 @@
-# React + Vite
+# 🧠 Mental Wellness Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive and animated landing page for a **Mental Wellness Platform**, built using **React.js**, **Tailwind CSS**, and **Framer Motion**. This project is designed to provide users a smooth, calming and engaging experience to explore therapy and self-help services.
 
-Currently, two official plugins are available:
+### 🔗 Live Demo
+👉 [Visit Live Site](mental0-wellness-lending-page.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Beautiful and responsive design with Tailwind CSS
+- 🚀 Fully mobile-first layout and accessibility support
+- 🔄 Animated sections using Framer Motion
+- 🎥 Interactive video thumbnail with modal video play
+- 🧾 Reusable components: Hero, Services, How It Works, About, Contact
+- 📝 Firebase-integrated contact form for booking appointments
+- 📍 Smooth scroll navigation
+- 📸 Optimized assets and illustrations
+- 🔒 Form validations and error handling
+
+## 🖼️ UI Preview
+
+![Project Screenshot](./public/screenshot.html)
+
+---
+
+## 🛠️ Technologies Used
+
+- ReactJS
+- CSS (custom styling)
+- HTML
+- JavaScript (ES6+)
+- localStorage 
+
+---
+
+## 📦 Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Inshiya1904/Task-Management-Application.git
+cd Task-Management-Application
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the app
+
+```bash
+npm run dev
+```
